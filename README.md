@@ -18,3 +18,4 @@ Securitree will:
 
 Links:
  https://www.delftstack.com/howto/python/trees-in-python/
+ https://www.freecodecamp.org/news/all-you-need-to-know-about-tree-data-structures-bceacb85490c/
