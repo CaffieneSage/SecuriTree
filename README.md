@@ -15,3 +15,6 @@ Securitree will:
  * represent the relationships between security components visually as a tree structure.
  * Provide a password or pincode based access method to prevent unauthorized access.
  * Store data in a text file (probably an encrypted one).
+
+Links:
+ https://www.delftstack.com/howto/python/trees-in-python/
