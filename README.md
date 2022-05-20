@@ -49,5 +49,6 @@ Testability and Monitoring:
   
 
 Links:
- https://www.delftstack.com/howto/python/trees-in-python/
- https://www.freecodecamp.org/news/all-you-need-to-know-about-tree-data-structures-bceacb85490c/
+ * https://www.delftstack.com/howto/python/trees-in-python/
+ * https://www.freecodecamp.org/news/all-you-need-to-know-about-tree-data-structures-bceacb85490c/
+ * https://www.freecodecamp.org/news/how-to-write-a-good-software-design-document-66fcf019569c/
