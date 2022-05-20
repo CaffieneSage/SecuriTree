@@ -28,18 +28,18 @@ on site.
  
  To do list:
  
- *Implement a login page that accepts a username and password.
- *Create a main landing page with options to view the heirarchy, view the status of doors, or logout.
- *A page displaying the tree heirarchy in the system, showing how security features are interconnected.
- *A page with menus to control doors and features connected to the system.
- *Implement a file to store login data.
- *It may also be advantageous to implement some kind of logging system to track activity on site.
+ * Implement a login page that accepts a username and password.
+ * Create a main landing page with options to view the heirarchy, view the status of doors, or logout.
+ * A page displaying the tree heirarchy in the system, showing how security features are interconnected.
+ * A page with menus to control doors and features connected to the system.
+ * Implement a file to store login data.
+ * It may also be advantageous to implement some kind of logging system to track activity on site.
 
 Alternatives:
 
-*If a GUI proves too difficult to implement within a reasonable timeframe, a simpler command line
+* If a GUI proves too difficult to implement within a reasonable timeframe, a simpler command line
 interface could be used instead. 
-*A secure website could also be used to control systems remotely.
+* A secure website could also be used to control systems remotely.
 
 Testability and Monitoring:
 
