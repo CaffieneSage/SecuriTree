@@ -18,8 +18,20 @@ What have I learned?
    information and implements it in code. A key takeaway for me has been that code is only a part of software development, good documentation is one
    of the things that seperates a programmer, from a developer.
    
+ Scope
+ 
+   It is easy to get carried away, coming from a game development background, this is something I understand well. Still, it happens. For this project
+   I was very excited to play with tkinter and create some nice looking GUI elements to showcase. In reality, it might have been better to create a simpler 
+   command line based inteface and just nail down the logic from the start. 
+   
  Conclusions
  
    As someone who has taught themselves, it can be easy to get stuck in a rut and just think of development as learning via online tutorials 
    and working on a portfolio. In reality there are many facets involved in creating something. Applying for jobs, preparing for interview, adressing
    more advanced topics that were not really understood before have all helped me to grow as a developer, and as a person.
+    Something I thoroughly enjoyed was learning about and trying to create documentation for a project. There was a great deal I did not know going into
+   this project, and in reality there are still quite a few things that I dont have a clear picture on:
+   
+       * How do I keep user data secure?
+       * How do I create multiple pages for my GUI aplication?
+       * How do I show a tree structure via my GUI?
