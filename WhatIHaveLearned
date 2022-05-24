@@ -1,0 +1,25 @@
+What have I learned?
+  
+  
+  Data Structures and Algorithms
+   
+   Until recently, I have not used data structures in this scope, having only used the kinds of structures that are usually predifined within a programming language.
+   I have learned something about when, and when not to use these kinds of data structures in my code. I have learned about linked lists and  binary tree structures 
+   specifically.
+   I have also gained some experience with algorithms, what specifically they are, and how they relate to computer science. I have gained a new understanding of
+   binary search algorithms, and their strengths when compared to a brute force approach when trying to access information. Sometimes, up to a given complexity
+   the brute force approach can be faster than a binary search implementation. That said, when comparing large amounts of data, binary search can yeild huge gains
+   in terms of speed.
+   
+ The importance of good Documentation
+ 
+   Documentation does not always mean what we might think. It can be as simple as commenting your code, or as complicated as predefining everything about your
+   application in advance of creating it. It might be that you are required to create documentation for your application, and someone else then takes that 
+   information and implements it in code. A key takeaway for me has been that code is only a part of software development, good documentation is one
+   of the things that seperates a programmer, from a developer.
+   
+ Conclusions
+ 
+   As someone who has taught themselves, it can be easy to get stuck in a rut and just think of development as learning via online tutorials 
+   and working on a portfolio. In reality there are many facets involved in creating something. Applying for jobs, preparing for interview, adressing
+   more advanced topics that were not really understood before have all helped me to grow as a developer, and as a person.
