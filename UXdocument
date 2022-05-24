@@ -1,0 +1,21 @@
+
+SecuriTree, the universe and everything!
+
+ In our modern age, security is an imoprtant aspect of our daily life. Despite this it is often something that is overlooked, or undervalued.
+ Keeping equipment and information secure can be a full time job in and of itself. Thankfully some of the grind at least can be automated
+ to make our lives easier...and safer. To this end this document aims to show the thoughts and processes involved in building the SecuriTree 
+ application.
+  The securiTree application at its core is designed to make it easier to manage access points on a given site, by allowing remote control 
+  and providing information on the current status on a given door.
+  
+Why would the end-user choose securitree?
+
+ Ideally our platform should be simpler to use, and take the grind out of monitoring a customers hardware. Reliability (and simplicity!) is a given.
+ Our solution should do the best possible job in keeping company assets safe and secure. Finally the end result should be intuitive to use, even for those 
+ who are not necessarily that technically minded.
+  If we take the example of a simple door locking mechanism, it is pretty obvious how a lock and key go together to prevent unauthorized access to what 
+ is behind the door. By using a graphical interface, we should be able to achieve the same level of intuitiveness for the end user (hopefully!). 
+ 
+ 
+ 
+
